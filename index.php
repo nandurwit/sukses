@@ -1,5 +1,5 @@
-<?php
-session_start();
+<!DOCTYPE html>
+<html lang="en">
 
 // Array of updated technology-related images and descriptions from Pexels and Pixabay with smaller resolution images
 $tech_images = [
